@@ -15,7 +15,7 @@ function spanId(id) {
         )
     }
 }
-// Like this spanId("variable") 
+// Like this spanId("id or class") 
 // or 
-// variable declare here like this const variable = document.getElementById('variable') spanId(variable)
+// variable declare here like this ex: const variable = document.getElementById('variable') spanId(variable)
 spanId()
