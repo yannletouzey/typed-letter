@@ -1,6 +1,3 @@
-# typed-letter
-Displays typed text
+# Typed Letter
 
-[video-typed-letter][def]
-
-[def]: ./video/sans-titre.mp4
+![typed-letter](typed-letter.gif)
