@@ -1,3 +1,5 @@
 # Typed Letter
 
-![typed-letter](typed-letter.gif)
+![typed-letter][def]
+
+[def]: typed-letter.gif
